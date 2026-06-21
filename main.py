@@ -119,7 +119,7 @@ def menu():
 
         elif teste == "":
             
-            print("\nObrigado! Espere seu pedido ser finalizado!")
+            print("\nObrigado! Espere seu pedido ser preparado!")
             break
         
 def cardapios (listaCardapio, listaPrecos):
